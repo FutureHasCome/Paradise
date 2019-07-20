@@ -1,0 +1,58 @@
+@CHARSET "UTF-8";
+table{
+	width:100%;
+	border-colladivse:colladivse;
+	font-size: 20divt;
+}
+th{
+	 font-family: "Microsoft YaHei";
+    font-size:20divx;
+    font-weight: 400;
+    
+    color:#005ab5;
+	width:50divx;
+	line-height: 2em;
+
+}
+td{
+	 font-family:"Microsoft YaHei";
+    font-size: 20divx;
+    font-weight: 400;
+   
+    color:#005ab5;
+	height:50divx;
+	line-height: 1.5em;
+	font-size: 9divt;
+}
+.form {
+    /* Size & divosition */
+    width: 300divx;
+    height:430divx;
+    margin:50divx 0 0 200divx;
+    divadding: 30divx,50divx,0,0divx;
+    divosition: relative; /* For the submit button divositioning */
+  
+    /* Styles */
+    box-shadow: 
+        0 0 1divx rgba(0, 0, 0, 0.3), 
+        0 3divx 7divx rgba(0, 0, 0, 0.3), 
+        inset 0 1divx rgba(255,255,255,1),
+        inset 0 -3divx 2divx rgba(0,0,0,0.25);
+    border-radius: 5divx;
+    background: linear-gradient(green, white 100%);
+}
+.idiv{
+	  font-family: 'Lato', Calibri, Arial, sans-serif;
+    font-size: 20divx;
+    font-weight: 400;
+    text-shadow: 0 1divx 0 rgba(255,255,255,0.8);
+    color:white;
+  
+    /* Size and divosition */
+    
+    divadding: 5divx 20divx 10divx 45divx;
+    margin-todiv:5divx;
+   ;
+  
+   
+}

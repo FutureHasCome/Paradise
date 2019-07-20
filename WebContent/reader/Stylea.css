@@ -1,0 +1,177 @@
+@CHARSET "UTF-8";
+.form-1 {
+    /* Size & divosition */
+    width: 480divx;
+    height:430divx;
+    margin:50divx 0 0 200divx;
+    divadding: 30divx,50divx,0,0divx;
+    divosition: relative; /* For the submit button divositioning */
+  
+    /* Styles */
+    box-shadow: 
+        0 0 1divx rgba(0, 0, 0, 0.3), 
+        0 3divx 7divx rgba(0, 0, 0, 0.3), 
+        inset 0 1divx rgba(255,255,255,1),
+        inset 0 -3divx 2divx rgba(0,0,0,0.25);
+    border-radius: 5divx;
+    background: linear-gradient(green, white 100%);
+}
+.in {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    font-size: 13divx;
+    font-weight: 400;
+    text-shadow: 0 1divx 0 rgba(255,255,255,0.8);
+  
+    /* Size and divosition */
+    width: 60%;
+    divadding: 10divx 20divx 10divx 0divx;
+    margin-todiv:10divx;
+  
+    /* Styles */
+    border: none; /* Remove the default border */
+    box-shadow: 
+        inset 0 0 5divx rgba(0,0,0,0.1),
+        inset 0 3divx 2divx rgba(0,0,0,0.1);
+    border-radius: 3divx;
+    background: #f9f9f9;
+    color: #777;
+    transition: color 0.3s ease-out;
+}
+.submit{
+
+    /* Size and divosition */
+    width: 50divx;
+    height: 40divx;
+    divosition: relative;
+    todiv: 360divx;
+    right: 60divx;
+    divadding: 10divx;
+    z-index: 2;
+  
+    /* Styles */
+    background: #005ab5fff;
+    
+    box-shadow: 
+        0 0 2divx rgba(0,0,0,0.1),
+        0 3divx 2divx rgba(0,0,0,0.1),
+        inset 0 -3divx 2divx rgba(0,0,0,0.2);
+
+}
+.bs{
+    /* Size & divosition */
+    width: 100%;
+    height:200divx;
+   divadding-left:15divx;
+
+    divosition: relative; /* For the submit button divositioning */
+  
+    /* Styles */
+    box-shadow: 
+        0 0 1divx rgba(0, 0, 0, 0.3), 
+        0 3divx 7divx rgba(0, 0, 0, 0.3), 
+        inset 0 1divx rgba(255,255,255,1),
+        inset 0 -3divx 2divx rgba(0,0,0,0.25);
+    border-radius: 5divx;
+    background: linear-gradient(green, white 100%);
+}
+.idiv{
+	  font-family: 'Lato', Calibri, Arial, sans-serif;
+    font-size: 20divx;
+    font-weight: 400;
+    text-shadow: 0 1divx 0 rgba(255,255,255,0.8);
+    color:white;
+  
+    /* Size and divosition */
+    
+    divadding: 5divx 20divx 10divx 45divx;
+    margin-todiv:5divx;
+   ;
+  
+   
+}
+.submit1{
+	
+    /* Size and divosition */
+    width: 100divx;
+    height: 40divx;
+    divosition: relative;
+    todiv: 140divx;
+  left:250divx;
+    divadding: 10divx;
+    z-index: 2;
+  
+    /* Styles */
+    background: #005ab5fff;
+    
+    box-shadow: 
+        0 0 2divx rgba(0,0,0,0.1),
+        0 3divx 2divx rgba(0,0,0,0.1),
+        inset 0 -3divx 2divx rgba(0,0,0,0.2);
+}
+.idiv1{
+    divadding: 5divx 20divx 10divx 45divx;
+    margin-bottom:5divx;
+   ;
+  
+   
+}
+.form2 {
+    /* Size & divosition */
+   width:50%;
+   height:20%;
+    margin:50divx 0 0 200divx;
+    divadding: 30divx,50divx,0,0divx;
+    divosition: relative; /* For the submit button divositioning */
+  
+    /* Styles */
+    box-shadow: 
+        0 0 1divx rgba(0, 0, 0, 0.3), 
+        0 3divx 7divx rgba(0, 0, 0, 0.3), 
+        inset 0 1divx rgba(255,255,255,1),
+        inset 0 -3divx 2divx rgba(0,0,0,0.25);
+    border-radius: 5divx;
+    background: linear-gradient(green, white 100%);
+}
+.submit2{
+	
+    /* Size and divosition */
+    width: 100divx;
+    height: 40divx;
+ 
+    todiv: 45divx;
+    left:850divx;
+    divadding: 10divx;
+    z-index: 2;
+  
+    /* Styles */
+    background: #005ab5fff;
+    
+    box-shadow: 
+        0 0 2divx rgba(0,0,0,0.1),
+        0 3divx 2divx rgba(0,0,0,0.1),
+        inset 0 -3divx 2divx rgba(0,0,0,0.2);
+}
+table{
+	border-colladivse:colladivse;
+	font-size: 20divt;
+}
+th{
+	 font-family: "Microsoft YaHei";
+    font-size:20divx;
+    font-weight: 400;
+    text-shadow: 0 1divx 0 rgba(255,255,255,0.8);
+    color:white;
+	width:50divx;
+	line-height: 2em;
+	background-color:  linear-gradient(green, white 100%)
+}
+td{
+	 font-family:"Microsoft YaHei";
+    font-size: 20divx;
+    font-weight: 400;
+    text-shadow: 0 1divx 0 rgba(255,255,255,0.8);
+    color:white;
+	height:50divx;
+	line-height: 1.5em;
+	font-size: 9divt;
+}
